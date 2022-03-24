@@ -1,0 +1,23 @@
+{
+  "name": "p13j1",
+  "version": "1.0.0",
+  "description": "Adventures of a fox website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adventures-of-Fox/website.git"
+  },
+  "keywords": [
+    "Website",
+    "minecraftmodding"
+  ],
+  "author": "Furious Feline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adventures-of-Fox/website/issues"
+  },
+  "homepage": "https://github.com/Adventures-of-Fox/website#readme"
+}
